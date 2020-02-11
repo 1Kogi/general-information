@@ -45,3 +45,6 @@ Couple of important things to always include in bug reports:
 
 3. Screenshot of the error page when possible.
 
+### Contributing Code As a Developer
+
+
