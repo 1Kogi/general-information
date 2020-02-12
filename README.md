@@ -47,4 +47,5 @@ Couple of important things to always include in bug reports:
 
 ### Contributing Code As a Developer
 
+--
 
